@@ -1,0 +1,45 @@
+/* 字体颜色 */
+
+/* 消息列表用户名 */
+.user-name > span {
+    color:black;
+}
+
+/* 消息列表时间 */
+.message__timestamp > span {
+    color:black;
+    font-family: "楷体";
+    font-weight: bold;
+    font-size:105%;
+}
+
+/* 加入群聊字体 */
+.gray-tip-content{
+    color:black;
+}
+
+/* 群公告内容 */
+.content >span {
+    color:black;
+}
+
+/* 群用户名 */
+.group-user__name-wrapper >span {
+    color:black !important;
+}
+
+/* 最近联系列表时间 */
+.secondary-info > span {
+    color:black;
+}
+
+/* 最近联系列表内容、联系人在线状态和个性签名 */
+.summary-main{
+    color:black;
+}
+
+/* 联系人页面 好友/群聊选择部分的文字 */
+.radio-tab__item{
+    color:black !important;
+}
+
