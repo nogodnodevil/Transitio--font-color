@@ -53,3 +53,12 @@
     color:black !important;
 }
 
+/* 文件管理器时间 */
+.file-list-normal-sort-title-inner{
+    color:black;
+}
+
+/* 空白页面qq图标填充色 */
+.q-empty-page-img > svg> path{
+    fill:rgba(9,160,220,10);
+}
