@@ -28,6 +28,16 @@
     color:black !important;
 }
 
+/* 群等级和群头衔 */
+/*.q-tag >span{
+    color:black;
+}*/
+
+/* 灰色群等级和群头衔 */
+.q-tag--grey >span{
+    color:black;
+}
+
 /* 最近联系列表时间 */
 .secondary-info > span {
     color:black;
