@@ -1,5 +1,12 @@
-/* 字体颜色 */
-
+/* ==UserStyle==
+@name           Font Color
+@description    修改QQNT一些文字的颜色
+@preprocessor   transitio
+@version        0.1.0
+@homepageURL    https://github.com/nogodnodevil/Transitio--font-color
+@author         nogodnodevil
+@license     	MIT
+==/UserStyle== */
 /* 消息列表用户名 */
 .user-name > span {
     color:black;
